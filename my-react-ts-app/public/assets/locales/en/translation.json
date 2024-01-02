@@ -1,0 +1,10 @@
+{
+  "greeting": "Hello, world!",
+  "title1":"Hello Huu",
+  "animals": {
+    "Dog": "Dog",
+    "Cat": "Cat",
+    "Chicken": "Chicken",
+    "Mouse": "Mouse"
+  }
+}
